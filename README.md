@@ -1,3 +1,6 @@
+# Pizza Predictor
+
+Um projeto simples para predição de preços de pizza com base no tamanho do seu diâmetro em cm, utilizando o modelo de Regressão Linear.
 
 ## Instalação de bibliotecas
 
